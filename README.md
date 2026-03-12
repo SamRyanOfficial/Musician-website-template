@@ -6,6 +6,16 @@ A ready-to-use website template for musicians. Add your photos, YouTube links, c
 
 ---
 
+## 🛠️ Recommended: Use Cursor AI
+
+We recommend using [Cursor](https://cursor.com) to customize this template. Cursor is a free code editor with built-in AI that can help you edit config files, add your content, and answer questions — even if you've never coded before.
+
+1. **Download Cursor** at [cursor.com](https://cursor.com)
+2. **Clone your repo** — In Cursor: File → Open Folder, or clone via terminal: `git clone https://github.com/YOUR_USERNAME/your-repo-name`
+3. **Ask Cursor** — Use the AI chat to help you edit `src/config/site.ts`, add photos, update your bio, or anything else. Just describe what you want and it will guide you.
+
+---
+
 ## 🚀 Quick Start (3 Steps)
 
 ### Step 1: Get Your Own Copy
@@ -82,13 +92,14 @@ Until you add these, the contact form will show a friendly error asking visitors
 If you want to preview changes before deploying:
 
 1. **Install Node.js** from [nodejs.org](https://nodejs.org) (LTS version)
-2. **Open a terminal** in the project folder
-3. Run:
+2. **Open the project in Cursor** — File → Open Folder → select your project
+3. **Open the terminal** in Cursor (Terminal → New Terminal, or `` Ctrl+` ``)
+4. Run:
    ```bash
    npm install
    npm run dev
    ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ---
 
@@ -135,7 +146,7 @@ MIT — use it for personal or commercial projects.
 
 ---
 
-**Need help?** Open an issue on GitHub or check the [Next.js docs](https://nextjs.org/docs) for deeper customization.
+**Need help?** Ask Cursor's AI for guidance, open an issue on GitHub, or check the [Next.js docs](https://nextjs.org/docs) for deeper customization.
 
 ---
 
